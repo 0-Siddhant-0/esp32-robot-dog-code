@@ -1,5 +1,16 @@
 # Small Robot dog (quadruped)
 
+This repository contains my implementation of the ESP32 Small Robot Dog project originally created by [Gleb Devyatkin](https://github.com/SovGVD/esp32-robot-dog-code).
+
+## My Build
+assets/img/zeke.png
+assets/img/pcb.png
+
+For this implementation, I:
+- 3D-printed the parts with modifications to accommodate different servo sizes
+- Modified certain components for better fit and functionality
+- Assembled and tested the quadrupedal movement
+  
 ## Hardware
 - ESP32
 - IMU (not implemented)
